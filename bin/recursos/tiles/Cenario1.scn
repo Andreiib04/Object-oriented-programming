@@ -1,0 +1,94 @@
+70
+src/recursos/tiles/teste.jpg
+src/recursos/tiles/PisoQuebrado.jpg
+src/recursos/tiles/teste.jpg
+src/recursos/tiles/cadeira.png
+src/recursos/tiles/cadeira1.png
+src/recursos/tiles/cadeira2.png
+src/recursos/tiles/piso3.png
+src/recursos/tiles/cadeira3.png
+src/recursos/tiles/cadeira4.png
+src/recursos/tiles/cadeira5.png
+src/recursos/tiles/pc3.png
+src/recursos/tiles/pc4.png
+src/recursos/tiles/cama1.png
+src/recursos/tiles/cama2.png
+src/recursos/tiles/cama3.png
+src/recursos/tiles/cama4.png
+src/recursos/tiles/pc5.png
+src/recursos/tiles/144.jpg
+src/recursos/tiles/155.jpg
+20 //div
+src/recursos/tiles/23.png
+src/recursos/tiles/ParedeVertical.png
+src/recursos/tiles/3.png
+src/recursos/tiles/327.png
+src/recursos/tiles/29.png
+src/recursos/tiles/pc1.png
+src/recursos/tiles/pc2.png
+src/recursos/tiles/rf1.png
+src/recursos/tiles/rf2.png
+src/recursos/tiles/forno.jpg
+31
+src/recursos/tiles/144.png
+src/recursos/tiles/155.png
+src/recursos/tiles/armario1.png
+src/recursos/tiles/armario2.png
+src/recursos/tiles/24.png
+src/recursos/tiles/26.png
+src/recursos/tiles/28.png
+src/recursos/tiles/mesa1.png
+src/recursos/tiles/mesa2.png
+src/recursos/tiles/146.jpg
+src/recursos/tiles/147.jpg
+src/recursos/tiles/pt1.png
+src/recursos/tiles/pt2.png
+src/recursos/tiles/pt3.png
+src/recursos/tiles/Estante.png
+src/recursos/tiles/cozinha1.png
+src/recursos/tiles/cozinha2.png
+src/recursos/tiles/cozinha4.png
+src/recursos/tiles/pizza.png
+src/recursos/tiles/cafe.png
+src/recursos/tiles/CABINE3.png
+src/recursos/tiles/cabine2.png
+src/recursos/tiles/piscina1.png
+src/recursos/tiles/piscina2.png
+src/recursos/tiles/banco.png
+src/recursos/tiles/banco1.png
+src/recursos/tiles/vasoFlor.png
+src/recursos/tiles/corredor1.png
+src/recursos/tiles/corredor2.png
+src/recursos/tiles/corredor3.png
+src/recursos/tiles/corredor4.png
+src/recursos/tiles/corredor5.png
+src/recursos/tiles/corredor6.png
+65
+66
+67
+68
+69
+70
+03 43 44 44 45 03 23 58 07 07 07 07 07 07 25 34 35 27 26 30 28 29 18 19 02 02
+03 09 50 51 05 03 03 07 07 07 07 07 07 58 25 02 03 06 05 06 03 03 03 02 03 03
+03 09 50 51 05 03 02 07 07 07 59 07 07 57 25 03 02 03 03 03 03 03 03 03 08 02
+02 03 06 06 03 03 02 07 07 07 60 07 07 56 25 39 40 02 03 03 03 02 03 09 07 31
+22 22 22 22 22 22 21 58 07 07 07 07 07 07 25 04 03 02 03 03 03 02 03 02 06 02
+46 43 44 44 45 46 23 57 07 07 07 07 07 07 24 22 22 22 03 03 22 22 22 22 22 22
+03 03 03 03 03 03 23 56 07 07 07 07 07 07 03 02 03 03 03 02 03 03 03 02 03 03
+03 03 15 16 07 03 03 07 07 07 61 07 07 07 03 03 02 03 03 03 03 02 03 03 09 11
+17 11 13 14 07 03 03 07 07 07 62 07 07 07 25 41 07 07 42 03 03 02 03 03 10 12
+39 40 03 03 02 03 03 07 07 07 07 07 07 07 25 04 03 02 06 03 03 02 03 25 09 11
+09 03 02 03 03 03 23 57 07 07 07 07 07 07 25 42 07 07 42 03 03 03 02 25 10 12
+22 22 22 22 22 22 21 56 07 07 63 07 07 07 25 06 03 03 04 02 03 03 03 25 09 11
+07 07 07 07 07 07 07 07 07 07 64 07 07 07 25 41 07 07 41 03 03 02 03 25 10 12
+07 07 07 07 07 07 07 07 07 07 07 07 07 07 25 06 03 03 04 03 03 02 03 25 02 03
+37 37 37 37 37 37 37 37 36 58 07 07 07 07 25 03 03 02 38 37 37 02 03 37 37 37
+03 52 52 52 52 52 52 03 23 37 37 37 03 03 24 22 22 22 25 09 09 09 09 03 07 07
+03 53 53 53 53 53 53 03 23 03 03 03 02 03 49 48 47 30 25 09 09 09 09 02 07 07
+03 03 03 03 03 03 03 02 23 03 03 03 02 03 03 02 03 03 25 09 09 09 09 02 07 07
+03 54 55 03 03 03 02 03 02 03 03 02 03 03 03 03 08 08 25 09 09 09 09 03 07 07
+02 03 03 02 03 03 02 03 02 03 03 03 03 02 03 09 50 51 25 09 09 09 09 03 07 07
+02 54 55 02 03 54 55 03 03 03 03 02 03 03 03 06 06 24 22 22 22 22 22 22 22 22
+%
+/src/recursos/cenarios/Fundo.jpg
